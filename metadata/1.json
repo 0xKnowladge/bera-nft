@@ -1,5 +1,12 @@
 {
   "name": "My Bini ala",
   "description": "Thats is my bini, Name ala",
-  "image": "https://raw.githubusercontent.com/0xKnowladge/bera-nft/main/assets/1.png"
+  "image": "https://raw.githubusercontent.com/0xKnowladge/bera-nft/main/assets/1.png",
+  "attributes": [
+    {
+      "hair": "long and black",
+      "value": "beautiful"
+    }
+  ]
+  
 }
