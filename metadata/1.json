@@ -1,1 +1,5 @@
-metadata/1.json
+{
+  "name": "My Bini ala",
+  "description": "Thats is my bini, Name ala",
+  "image": "https://raw.githubusercontent.com/username/repo/main/assets/1.png"
+}
